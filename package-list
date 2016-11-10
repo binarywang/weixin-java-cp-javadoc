@@ -1,0 +1,7 @@
+me.chanjar.weixin.cp.api
+me.chanjar.weixin.cp.bean
+me.chanjar.weixin.cp.bean.messagebuilder
+me.chanjar.weixin.cp.bean.outxmlbuilder
+me.chanjar.weixin.cp.util.crypto
+me.chanjar.weixin.cp.util.json
+me.chanjar.weixin.cp.util.xml
