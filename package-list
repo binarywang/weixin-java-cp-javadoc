@@ -2,6 +2,8 @@ me.chanjar.weixin.cp.api
 me.chanjar.weixin.cp.api.impl
 me.chanjar.weixin.cp.bean
 me.chanjar.weixin.cp.bean.article
+me.chanjar.weixin.cp.bean.external
+me.chanjar.weixin.cp.bean.external.msg
 me.chanjar.weixin.cp.bean.messagebuilder
 me.chanjar.weixin.cp.bean.oa
 me.chanjar.weixin.cp.bean.oa.applydata
