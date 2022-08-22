@@ -3,6 +3,7 @@ me.chanjar.weixin.cp.api
 me.chanjar.weixin.cp.api.impl
 me.chanjar.weixin.cp.bean
 me.chanjar.weixin.cp.bean.article
+me.chanjar.weixin.cp.bean.export
 me.chanjar.weixin.cp.bean.external
 me.chanjar.weixin.cp.bean.external.contact
 me.chanjar.weixin.cp.bean.external.moment
@@ -10,6 +11,9 @@ me.chanjar.weixin.cp.bean.external.msg
 me.chanjar.weixin.cp.bean.external.product
 me.chanjar.weixin.cp.bean.kf
 me.chanjar.weixin.cp.bean.kf.msg
+me.chanjar.weixin.cp.bean.license
+me.chanjar.weixin.cp.bean.license.account
+me.chanjar.weixin.cp.bean.license.order
 me.chanjar.weixin.cp.bean.living
 me.chanjar.weixin.cp.bean.message
 me.chanjar.weixin.cp.bean.messagebuilder
@@ -17,12 +21,19 @@ me.chanjar.weixin.cp.bean.msgaudit
 me.chanjar.weixin.cp.bean.oa
 me.chanjar.weixin.cp.bean.oa.applydata
 me.chanjar.weixin.cp.bean.oa.calendar
+me.chanjar.weixin.cp.bean.oa.meetingroom
 me.chanjar.weixin.cp.bean.oa.selfagent
 me.chanjar.weixin.cp.bean.oa.templatedata
 me.chanjar.weixin.cp.bean.oa.templatedata.control
+me.chanjar.weixin.cp.bean.oa.wedrive
+me.chanjar.weixin.cp.bean.order
 me.chanjar.weixin.cp.bean.outxmlbuilder
+me.chanjar.weixin.cp.bean.school
+me.chanjar.weixin.cp.bean.school.health
+me.chanjar.weixin.cp.bean.school.user
 me.chanjar.weixin.cp.bean.taskcard
 me.chanjar.weixin.cp.bean.templatecard
+me.chanjar.weixin.cp.bean.user
 me.chanjar.weixin.cp.bean.workbench
 me.chanjar.weixin.cp.config
 me.chanjar.weixin.cp.config.impl
