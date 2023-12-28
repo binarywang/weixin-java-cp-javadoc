@@ -6,6 +6,7 @@ me.chanjar.weixin.cp.bean.article
 me.chanjar.weixin.cp.bean.corpgroup
 me.chanjar.weixin.cp.bean.export
 me.chanjar.weixin.cp.bean.external
+me.chanjar.weixin.cp.bean.external.acquisition
 me.chanjar.weixin.cp.bean.external.contact
 me.chanjar.weixin.cp.bean.external.interceptrule
 me.chanjar.weixin.cp.bean.external.moment
