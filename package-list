@@ -12,6 +12,7 @@ me.chanjar.weixin.cp.bean.external.interceptrule
 me.chanjar.weixin.cp.bean.external.moment
 me.chanjar.weixin.cp.bean.external.msg
 me.chanjar.weixin.cp.bean.external.product
+me.chanjar.weixin.cp.bean.intelligentrobot
 me.chanjar.weixin.cp.bean.kf
 me.chanjar.weixin.cp.bean.kf.msg
 me.chanjar.weixin.cp.bean.license
@@ -19,12 +20,15 @@ me.chanjar.weixin.cp.bean.license.account
 me.chanjar.weixin.cp.bean.license.order
 me.chanjar.weixin.cp.bean.linkedcorp
 me.chanjar.weixin.cp.bean.living
+me.chanjar.weixin.cp.bean.media
 me.chanjar.weixin.cp.bean.message
 me.chanjar.weixin.cp.bean.messagebuilder
 me.chanjar.weixin.cp.bean.msgaudit
 me.chanjar.weixin.cp.bean.oa
 me.chanjar.weixin.cp.bean.oa.applydata
 me.chanjar.weixin.cp.bean.oa.calendar
+me.chanjar.weixin.cp.bean.oa.doc
+me.chanjar.weixin.cp.bean.oa.mail
 me.chanjar.weixin.cp.bean.oa.meeting
 me.chanjar.weixin.cp.bean.oa.meetingroom
 me.chanjar.weixin.cp.bean.oa.selfagent
